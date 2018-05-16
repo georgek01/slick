@@ -2,9 +2,9 @@ var slick = require('slickjs');
 
 module.exports = {  
   parse: function (template){
-    return null;
+    return "parse complete";
   },
   process: function (sections){  
-    return null;
+    return "process complete";
   }
 }
